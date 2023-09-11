@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Introduce web scraping and its uses.
-- Retrieve data from an HTML document through web scraping.
+- Retrieve data from an HTML document through web scraping...
 
 ***
 
